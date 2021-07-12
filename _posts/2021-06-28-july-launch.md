@@ -8,7 +8,7 @@ categories: monthly
 **Contents**:
 * [Launch](#launch)
 * [Book One: *Good Omens* (1990) by Terry Pratchett & Neil Gaiman](#good-omens-by-terry-pratchett--neil-gaiman-1990)
-* [Book Two: *1984* (1948) by George Orwell](#1984-by-george-orwell-1949)
+* [Book Two: *Nineteen Eighty-Four* (1948) by George Orwell](#nineteen-eighty-four-by-george-orwell-1949)
 
 # **Launch**
 
@@ -30,7 +30,7 @@ If you want to contribute to the project in any other way, just have a chat with
 
 # **July 2021's Books**
 
-This months books are [Good Omens](#good-omens-by-terry-pratchett--neil-gaiman-1990) and [1984](#1984-by-george-orwell-1949)!
+This months books are [Good Omens](#good-omens-by-terry-pratchett--neil-gaiman-1990) and [Nineteen Eighty-Four](#nineteen-eighty-four-by-george-orwell-1949)!
 
 ## **Good Omens by Terry Pratchett & Neil Gaiman (1990)**
 
@@ -66,16 +66,16 @@ You probably already know that this book has been adapted to a show recently (an
 ********
 
 
-## **1984 by George Orwell (1949)**
+## **Nineteen Eighty-Four by George Orwell (1949)**
 
 [*Content warnings: Torture, Violence, Confinement, Sexual content, Death, Misogyny, Rape, Alcoholism*](https://app.thestorygraph.com/books/96f73855-48ee-44d3-9297-cd625fae83b4/content_warnings)
 
 **Blurb**
 > *Hidden away in the Record Department of the sprawling Ministry of Truth, Winston Smith skilfully rewrites the past to suit the needs of the Party. Yet he inwardly rebels against the totalitarian world he lives in, which demands absolute obedience and controls him through the all-seeing telescreens and the watchful eye of Big Brother, symbolic head of the Party. In his longing for truth and liberty, Smith begins a secret love affair with a fellow-worker Julia, but soon discovers the true price of freedom is betrayal.*
 
-Unarguably the most politically influential dystopian ever written, 1984 is possibly more relevant today than the year of it's original publication, making the novel required reading in today's culture. Pretty much all political sides find something to take away from Orwell's picture of a totalitarian socialist society, and terms coined in the novel such as realpolitik, Big Brother, groupthink, thoughtcrime, etc., are referenced ad nauseam in articles, media, parliament and pretty much everywhere else (as well as the term "Orwellian", which is used to describe totalitarian ideas/policies).
+Unarguably the most politically influential dystopian ever written, 1984 is possibly more relevant today than the year of it's original publication, making the novel required reading in today's culture. Pretty much all political sides find something to take away from Orwell's picture of a totalitarian socialist society, and terms coined in the novel such as Big Brother, groupthink, thoughtcrime, etc., are referenced ad nauseam in articles, media, social media, parliament and pretty much everywhere else (as well as the term "Orwellian", which is used to describe totalitarian ideas/policies).
 
-In 2021, 1984 came into the public domain in most territories other than the United States, so you can read it for free at [archive.org](https://archive.org/details/Orwell1984preywo) and Amazon includes it for [free with Prime Reading](https://www.amazon.co.uk/1984-AmazonClassics-George-Orwell-ebook/dp/B088H7KLCG) for those with Kindles. 
+In 2021, Nineteen Eighty-Four came into the public domain in most territories other than the United States, so you can read it for free at [archive.org](https://archive.org/details/Orwell1984preywo) and Amazon includes it for [free with Prime Reading](https://www.amazon.co.uk/1984-AmazonClassics-George-Orwell-ebook/dp/B088H7KLCG) for those with Kindles. 
 
 **Existing Covers** *(1984 has had many covers, so here's just a few of the greats)*
 <div>
