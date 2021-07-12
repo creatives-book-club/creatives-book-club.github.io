@@ -1,14 +1,20 @@
 ---
 layout: post
 title:  "Launch & July 2021's Books"
-date:   2021-06-28 15:04:36 +0100
+date:   2021-07-12 13:00:00 +0100
 categories: monthly 
 ---
+
+**Contents**:
+* [Launch](#launch)
+* [Book One: *Good Omens* (1990) by Terry Pratchett & Neil Gaiman](#good-omens-by-terry-pratchett--neil-gaiman-1990)
+* [Book Two: *1984* (1948) by George Orwell](#1984-by-george-orwell-1949)
+
 # **Launch**
 
 Hello, welcome to Creative's Book Club! 
 
-I'm hoping that this project will be a hub where creatives of all kinds can come together and make stuff all around a single *thing* every month, no matter how big/small. 
+I'm hoping that this project will be a hub where creatives of all kinds can come together and make stuff all around a single *"thing"* every month, no matter how big/small. 
 
 Originally, the plan was to focus on book covers/jackets, it's a fun way to practice composition, typography and image-making all in one quick and simple package, so I would encourage that as a way to get into making something if you want to make something but don't know what. As a result, I'll have resources about book cover design & typography around this website somewhere. **However, if you have an idea, please make it, regardless of format/medium.**
 
@@ -16,7 +22,7 @@ The majority of activity for this project will likely be on Instagram ([@creativ
 
 At the end of every month we'll post about the things you've been making, and then on the first of every month we'll post the next set of books! 
 
-You can suggest books by messaging us on any platform/emailing letting us know what books you want to design for. 
+You can suggest books by messaging us on any platform/emailing letting us know what books you want to design/make for. 
 
 If you want to contribute to the project in any other way, just have a chat with us!
 

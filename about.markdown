@@ -18,7 +18,7 @@ In other words, it's just a good excuse to make something that you might not hav
 
 Website Credits:
 
-* This site was created using [Jekyll](https://jekyllrb.com/), a simple blog generator, using a modified version of the [minima theme](https://github.com/jekyll/minima), hosted for free using [GitHub Pages](https://pages.github.com/) (here is a link to this website's source code)
+* This site was created using [Jekyll](https://jekyllrb.com/), a simple blog generator, using a modified version of the [minima theme](https://github.com/jekyll/minima), hosted for free using [GitHub Pages](https://pages.github.com/) ([here is a link to this website's source code](https://github.com/creatives-book-club/creatives-book-club.github.io))
 
 * The paper texture in the background is an edited "Butcher Paper Texture" from [True Grit Texture Supply](https://www.truegrittexturesupply.com/), and is available for free.
 
