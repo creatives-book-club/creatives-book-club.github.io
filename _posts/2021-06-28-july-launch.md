@@ -36,7 +36,7 @@ This months books are [Good Omens](#good-omens-by-terry-pratchett--neil-gaiman-1
 
 [*Content warnings: Racism, Xenophobia, Death, Homophobia, Body horror, Eating disorder*](https://app.thestorygraph.com/books/7c0ed7bb-5527-44eb-a5b7-1d32151ed977/content_warnings)
 
-Terry Pratchett & Neil Gaiman's classic Apocalypse novel is a great read and is full of themes to draw on for this months work. It's got great fleshed out characters, a fun twist on religious themes, fun jabs at capitalism, and is just generall a really fun read. There's tons of unique imagery to draw from (for those working on visual pieces), and there's endless possibilities to what you can do with this book's words. 
+Terry Pratchett & Neil Gaiman's classic Apocalypse novel is a great read and is full of themes to draw on for this months work. It's got great fleshed out characters, a fun twist on religious themes, jabs at capitalism & 90s British culture, and is just generally a really entertaining read. There's tons of unique imagery to draw from (for those working on visual pieces), so it's a solid pick for the first option of the first month. 
 
 You probably already know that this book has been adapted to a show recently (and has just been renewed for a second season), so now is the time to get in on the hype and make something *nice*.
 
